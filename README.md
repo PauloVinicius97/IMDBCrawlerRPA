@@ -20,7 +20,7 @@ ___
 
 ## RPA
 - Pede usuário e senha para logar no IMDb. Caso caia no captcha, o console irá pedir para o usuário resolvê-lo;
-- No final, tira um print da tela. Vai tirar um print da tela exibindo as avaliações do usuário, ou a tela de login com erro de usuário ou senha.
+- No final, tira um print da tela e salva na área de trabalho. Vai tirar um print da tela exibindo as avaliações do usuário, ou a tela de login com erro de usuário ou senha.
   
 ___
 
