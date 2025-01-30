@@ -13,6 +13,17 @@ ___
 
 ___
 
+# Funcionamento
+
+## Crawler
+- Salva um arquivo .csv na área de trabalho com os 20 melhores filmes do IMDb. O log é exibido no console.
+
+## RPA
+- Pede usuário e senha para logar no IMDb. Caso caia no captcha, o console irá pedir para o usuário resolvê-lo.
+  
+___
+
+
 # Outros projetos
 
 Caso tenha interesse em um web crawler feito com o Html Agility Pack com implementação em DDD com API REST, [clique aqui](https://github.com/PauloVinicius97/WebCrawler).
