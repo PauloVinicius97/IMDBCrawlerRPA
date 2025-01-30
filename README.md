@@ -19,7 +19,8 @@ ___
 - Salva um arquivo .csv na área de trabalho com os 20 melhores filmes do IMDb. O log é exibido no console.
 
 ## RPA
-- Pede usuário e senha para logar no IMDb. Caso caia no captcha, o console irá pedir para o usuário resolvê-lo.
+- Pede usuário e senha para logar no IMDb. Caso caia no captcha, o console irá pedir para o usuário resolvê-lo;
+- No final, tira um print da tela. Vai tirar um print da tela exibindo as avaliações do usuário, ou a tela de login com erro de usuário ou senha.
   
 ___
 
